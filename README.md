@@ -1,4 +1,8 @@
 # quartz.js
+
+[![Build Status](http://img.shields.io/travis/adrianhopebailie/quartz.js.svg?style=flat)](https://travis-ci.org/adrianhopebailie/quartz.js)
+[![Release version](http://img.shields.io/github/release/adrianhopebailie/quartz.js.svg?style=flat)](https://github.com/adrianhopebailie/quartz.js/releases)
+
 =========
 
 JavaScript library for use in combination with the Quartz scheduler library
