@@ -1,0 +1,24 @@
+{
+  "name": "quartz-util",
+  "version": "0.1.0",
+  "homepage": "https://github.com/adrianhopebailie/quartz.js",
+  "authors": [
+    "Adrian Hope-Bailie <adrian@hopebailie.com>",
+    "Theunis Swanepoel <theunis.swanepoel@gmail.com>"
+  ],
+  "description": "A utility module for the Quartz scheduler library",
+  "main": "quartz-util.js",
+  "keywords": [
+    "quartz",
+    "cron"
+  ],
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "obj"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "quartz-util",
+  "version": "0.1.0",
+  "description": "Utility functions for the Quartz scheduler library.",
+  "main": "quartz-node.js",
+  "license": "Apache-2.0",
+  "author": "Stanchion - Product Development <product.development@stanchionpayments.com>",
+  "contributors": [
+      {
+        "name": "Adrian Hope-Bailie",
+        "email": "adrian@hopebailie.com"
+      },
+      {
+        "name": "Theunis Swanepoel",
+        "email": "theunis.swanepoel@gmail.com"
+      }
+  ],
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node node-qunit-testrunner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrianhopebailie/quartz.js.git"
+  },
+  "keywords": [
+    "quartz",
+    "cron",
+    "node"
+  ],
+  "bugs": {
+    "url": "https://github.com/adrianhopebailie/quartz.js/issues"
+  },
+  "homepage": "https://github.com/adrianhopebailie/quartz.js",
+  "devDependencies": {
+    "qunit": "~0.6.3"
+  }
+}
